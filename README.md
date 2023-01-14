@@ -1,14 +1,15 @@
 # MiniShell
 A minishell that implements background jobs, pipes, and environment variables
 
-# Functions
+
+## Functions
 Reference to the mac zsh style, implementation includes:
 
--- Built-in commands cd echo history bash exit
+-- built-in commands cd echo history bash exit
 
--- Background task creation (&), viewing (jobs), referencing (%) and deletion (kill)
+-- background task creation (&), viewing (jobs), referencing (%) and deletion (kill)
 
--- Serial execution of multiple commands separated by ';'
+-- serial execution of multiple commands separated by ';'
 
 -- multi-level pipelines
 
